@@ -47,5 +47,3 @@ Formatting to be done appropriately
 
  
 
-Sample Dashboard:
-
